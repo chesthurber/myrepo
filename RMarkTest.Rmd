@@ -2,9 +2,7 @@
 title: "RMarkTest"
 author: "Ches Thurber"
 date: "5/8/2019"
-output: 
-  html_document: 
-    keep_md: yes
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
